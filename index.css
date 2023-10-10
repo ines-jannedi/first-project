@@ -1,0 +1,26 @@
+#body{
+    background-color: darksalmon;
+}
+
+    img{
+        width: 700px;
+    }
+
+#myButton{
+    margin-left:45% ;
+    color: brown;
+}
+#r1{
+    text-transform: uppercase;
+}
+#r2{
+    text-transform: uppercase;
+}
+.foto{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+#urButton{
+    float: center;
+    width: 900px;
+}
